@@ -9,3 +9,10 @@ th, td {
     padding: 8px;
     text-align: left;
 }
+
+#map { 
+    height: 90vh; 
+    border: 1px;
+    border-color: brown;
+    border-radius: 10px;
+}
